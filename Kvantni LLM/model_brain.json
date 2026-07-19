@@ -1,0 +1,1267 @@
+{
+    "cao": {
+        "kako": 1
+    },
+    "kako": {
+        "si": 1,
+        "objašnjavamo": 1,
+        "želiš": 1,
+        "bismo": 1
+    },
+    "dobro": {
+        "sam": 1
+    },
+    "pa": {
+        "ne": 1,
+        "da": 1
+    },
+    "ne": {
+        "kopiraj": 1,
+        "pronalazi": 1,
+        "udari": 1,
+        "izgubi": 1,
+        "savijaju": 1,
+        "laže": 1
+    },
+    "kopiraj": {
+        "me": 1
+    },
+    "me": {
+        "teslo": 1
+    },
+    "je": {
+        "je": 6,
+        "model": 1,
+        "to": 1,
+        "klasičan": 1,
+        "na": 1,
+        "u": 1,
+        "dostigla": 1,
+        "da": 1,
+        "veliki": 1,
+        "dokaz": 1,
+        "mesto": 1,
+        "kvantni": 1,
+        "najveći": 1,
+        "tesla": 1
+    },
+    "da": {
+        "li": 5,
+        "ti": 1,
+        "nastavimo": 1,
+        "u": 1,
+        "napišemo": 1,
+        "odjednom": 1,
+        "instant": 1,
+        "završimo": 1,
+        "hakuje": 1,
+        "tvoj": 1,
+        "kucaju": 1,
+        "napravim": 1
+    },
+    "li": {
+        "znas": 2,
+        "želiš": 2,
+        "radi": 1
+    },
+    "znas": {
+        "sta": 2
+    },
+    "sta": {
+        "znaci": 2
+    },
+    "znaci": {
+        "ses": 1,
+        "jebanje": 2,
+        "i": 1
+    },
+    "ses": {
+        "znaci": 1
+    },
+    "objašnjavamo": {
+        "nelinearno": 1
+    },
+    "nelinearno": {
+        "sklapanje": 1
+    },
+    "sklapanje": {
+        "rečenica": 1
+    },
+    "rečenica": {
+        "u": 1
+    },
+    "u": {
+        "terminalu": 2,
+        "json": 1,
+        "algoritam": 1,
+        "beskonačnu": 1,
+        "grafu": 1,
+        "matrici": 1,
+        "limit": 1,
+        "kod": 1,
+        "dinarima": 1,
+        "nišu": 2,
+        "čistu": 1,
+        "prostoru": 1,
+        "tebi": 1
+    },
+    "terminalu": {
+        "ispis": 1,
+        "da": 1
+    },
+    "ispis": {
+        "dokazuje": 1
+    },
+    "dokazuje": {
+        "uspešnu": 1
+    },
+    "uspešnu": {
+        "statističku": 1
+    },
+    "statističku": {
+        "konvergenciju": 1
+    },
+    "konvergenciju": {
+        "modela": 1
+    },
+    "modela": {
+        "kada": 1
+    },
+    "kada": {
+        "korisnik": 1,
+        "imaš": 1,
+        "te": 1
+    },
+    "korisnik": {
+        "unese": 1
+    },
+    "unese": {
+        "reč": 1
+    },
+    "reč": {
+        "bravo": 1,
+        "je": 1
+    },
+    "bravo": {
+        "sistem": 1
+    },
+    "sistem": {
+        "ne": 1,
+        "i": 1
+    },
+    "pronalazi": {
+        "predefinisan": 1,
+        "povezane": 1
+    },
+    "predefinisan": {
+        "šablon": 1
+    },
+    "šablon": {
+        "već": 1
+    },
+    "već": {
+        "koristi": 1
+    },
+    "koristi": {
+        "uneti": 1
+    },
+    "uneti": {
+        "token": 1
+    },
+    "token": {
+        "kao": 1,
+        "sve": 1
+    },
+    "kao": {
+        "generator": 1
+    },
+    "generator": {
+        "slučajnog": 1
+    },
+    "slučajnog": {
+        "procesa": 1
+    },
+    "procesa": {
+        "preko": 1
+    },
+    "preko": {
+        "markovljeve": 1
+    },
+    "markovljeve": {
+        "matrice": 1
+    },
+    "matrice": {
+        "prelaza": 1
+    },
+    "prelaza": {
+        "u": 1,
+        "sa": 1
+    },
+    "json": {
+        "u": 1
+    },
+    "algoritam": {
+        "pronalazi": 1,
+        "sekvencijalno": 1,
+        "je": 2
+    },
+    "povezane": {
+        "reči": 1
+    },
+    "reči": {
+        "da": 1,
+        "je": 2,
+        "kako": 1
+    },
+    "i": {
+        "jebanje": 1,
+        "samostalno": 1,
+        "generisao": 1,
+        "popričamo": 1,
+        "tvoj": 1,
+        "viziji": 1,
+        "inat": 1,
+        "administracija": 1,
+        "trista": 1,
+        "merdevine": 1,
+        "siguran": 1,
+        "rada": 1,
+        "bazične": 1,
+        "ratnički": 1,
+        "preprekama": 1,
+        "ne": 1,
+        "elfak": 1,
+        "uzimamo": 1,
+        "ntp": 1,
+        "zaposliće": 1,
+        "kvantne": 1,
+        "kvantni": 1,
+        "locira": 1,
+        "klasične": 1,
+        "vraća": 1,
+        "biologija": 1,
+        "naučnik": 1,
+        "vojnik": 1
+    },
+    "jebanje": {
+        "i": 1
+    },
+    "samostalno": {
+        "sintaksički": 1
+    },
+    "sintaksički": {
+        "sklapa": 1
+    },
+    "sklapa": {
+        "potpuno": 1
+    },
+    "potpuno": {
+        "novu": 1
+    },
+    "novu": {
+        "nelinearnu": 1
+    },
+    "nelinearnu": {
+        "semantičku": 1
+    },
+    "semantičku": {
+        "celinu": 1
+    },
+    "zašto": {
+        "je": 1
+    },
+    "model": {
+        "ušao": 1,
+        "koji": 1
+    },
+    "ušao": {
+        "u": 1
+    },
+    "beskonačnu": {
+        "petlju": 1
+    },
+    "petlju": {
+        "na": 1
+    },
+    "na": {
+        "unosu": 1,
+        "reč": 1,
+        "svom": 1,
+        "berzi": 1,
+        "frontu": 1,
+        "master": 1,
+        "elfaku": 1,
+        "sferi": 1,
+        "čistu": 1
+    },
+    "unosu": {
+        "je": 1
+    },
+    "to": {
+        "je": 1
+    },
+    "klasičan": {
+        "fenomen": 1
+    },
+    "fenomen": {
+        "determinističkog": 1
+    },
+    "determinističkog": {
+        "zaglavljivanja": 1
+    },
+    "zaglavljivanja": {
+        "u": 1
+    },
+    "grafu": {
+        "markovian": 1
+    },
+    "markovian": {
+        "loop": 1
+    },
+    "loop": {
+        "trap": 1
+    },
+    "trap": {
+        "unošenjem": 1
+    },
+    "unošenjem": {
+        "homogenih": 1
+    },
+    "homogenih": {
+        "ponavljajućih": 1
+    },
+    "ponavljajućih": {
+        "tokena": 1
+    },
+    "tokena": {
+        "verovatnoća": 1
+    },
+    "verovatnoća": {
+        "prelaza": 1
+    },
+    "sa": {
+        "reči": 1,
+        "ponavljanjem": 1,
+        "berze": 1,
+        "ogromnim": 1,
+        "ovim": 1,
+        "čistom": 1,
+        "prosekom": 1
+    },
+    "matrici": {
+        "je": 1
+    },
+    "dostigla": {
+        "apsolutnih": 1
+    },
+    "apsolutnih": {
+        "p": 1
+    },
+    "p": {
+        "1": 1
+    },
+    "1": {
+        "0": 1
+    },
+    "0": {
+        "pošto": 1
+    },
+    "pošto": {
+        "difuzioni": 1
+    },
+    "difuzioni": {
+        "operator": 1
+    },
+    "operator": {
+        "generisanja": 1
+    },
+    "generisanja": {
+        "nema": 1
+    },
+    "nema": {
+        "ugrađen": 1
+    },
+    "ugrađen": {
+        "kazneni": 1
+    },
+    "kazneni": {
+        "mehanizam": 2
+    },
+    "mehanizam": {
+        "za": 1,
+        "repetition": 1
+    },
+    "za": {
+        "ponavljanje": 1,
+        "večeras": 1,
+        "kvantno": 1,
+        "rsa": 1
+    },
+    "ponavljanje": {
+        "repetition": 1
+    },
+    "repetition": {
+        "penalty": 2
+    },
+    "penalty": {
+        "algoritam": 1,
+        "kako": 1
+    },
+    "sekvencijalno": {
+        "bira": 1
+    },
+    "bira": {
+        "isti": 1
+    },
+    "isti": {
+        "token": 1
+    },
+    "sve": {
+        "dok": 1
+    },
+    "dok": {
+        "ne": 1
+    },
+    "udari": {
+        "u": 1
+    },
+    "limit": {
+        "maksimalne": 1
+    },
+    "maksimalne": {
+        "dužine": 1
+    },
+    "dužine": {
+        "rečenice": 1
+    },
+    "otvorio": {
+        "si": 1
+    },
+    "si": {
+        "vrata": 1
+    },
+    "vrata": {
+        "prave": 1
+    },
+    "prave": {
+        "veštačke": 1
+    },
+    "veštačke": {
+        "inteligencije": 1
+    },
+    "inteligencije": {
+        "na": 1
+    },
+    "svom": {
+        "računaru": 1
+    },
+    "računaru": {
+        "odradi": 1
+    },
+    "odradi": {
+        "git": 1
+    },
+    "git": {
+        "niz": 1,
+        "add": 1,
+        "commit": 1,
+        "pushsada": 1
+    },
+    "niz": {
+        "u": 1
+    },
+    "ti": {
+        "se": 1,
+        "potpunu": 1,
+        "diktiraš": 1,
+        "nisi": 1
+    },
+    "se": {
+        "ovaj": 1,
+        "nikada": 1
+    },
+    "ovaj": {
+        "naučeni": 1,
+        "tvoj": 1
+    },
+    "naučeni": {
+        "mozak": 1
+    },
+    "mozak": {
+        "ne": 1,
+        "radi": 1
+    },
+    "izgubi": {
+        "git": 1
+    },
+    "add": {
+        "git": 1
+    },
+    "commit": {
+        "m": 1
+    },
+    "m": {
+        "zakucavanje": 1
+    },
+    "zakucavanje": {
+        "markovljev": 1
+    },
+    "markovljev": {
+        "llm": 1
+    },
+    "llm": {
+        "uspesno": 1,
+        "naterati": 1
+    },
+    "uspesno": {
+        "ucio": 1
+    },
+    "ucio": {
+        "sleng": 1
+    },
+    "sleng": {
+        "i": 1
+    },
+    "generisao": {
+        "odgovore": 1
+    },
+    "odgovore": {
+        "git": 1
+    },
+    "pushsada": {
+        "kada": 1
+    },
+    "imaš": {
+        "model": 1
+    },
+    "koji": {
+        "stvarno": 1,
+        "brzinom": 1
+    },
+    "stvarno": {
+        "žvaće": 1
+    },
+    "žvaće": {
+        "reči": 1
+    },
+    "želiš": {
+        "da": 4
+    },
+    "nastavimo": {
+        "naš": 1
+    },
+    "naš": {
+        "konsalting": 1,
+        "robusni": 1
+    },
+    "konsalting": {
+        "da": 1
+    },
+    "kod": {
+        "ubacimo": 1,
+        "kvantni": 1
+    },
+    "ubacimo": {
+        "kazneni": 1
+    },
+    "bismo": {
+        "ugasili": 1
+    },
+    "ugasili": {
+        "onaj": 1
+    },
+    "onaj": {
+        "bag": 1
+    },
+    "bag": {
+        "sa": 1
+    },
+    "ponavljanjem": {
+        "reči": 1
+    },
+    "napišemo": {
+        "skriptu": 1
+    },
+    "skriptu": {
+        "koja": 1
+    },
+    "koja": {
+        "će": 1
+    },
+    "će": {
+        "ovaj": 1,
+        "finansirati": 1
+    },
+    "tvoj": {
+        "mini": 1,
+        "daleki": 1,
+        "portfolio": 1,
+        "otac": 1,
+        "kliker": 1,
+        "diplomski": 1,
+        "mozak": 1,
+        "deep": 1,
+        "startap": 1
+    },
+    "mini": {
+        "llm": 1
+    },
+    "naterati": {
+        "da": 1
+    },
+    "odjednom": {
+        "pročita": 1
+    },
+    "pročita": {
+        "celu": 1
+    },
+    "celu": {
+        "neku": 1
+    },
+    "neku": {
+        "knjigu": 1
+    },
+    "knjigu": {
+        "ili": 1
+    },
+    "ili": {
+        "tekstualni": 1,
+        "želiš": 1
+    },
+    "tekstualni": {
+        "log": 1
+    },
+    "log": {
+        "sa": 1
+    },
+    "berze": {
+        "pa": 1
+    },
+    "instant": {
+        "progovori": 1
+    },
+    "progovori": {
+        "sa": 1
+    },
+    "ogromnim": {
+        "rečnikom": 1
+    },
+    "rečnikom": {
+        "ili": 1
+    },
+    "završimo": {
+        "tehnologiju": 1
+    },
+    "tehnologiju": {
+        "za": 1
+    },
+    "večeras": {
+        "i": 1
+    },
+    "popričamo": {
+        "o": 1
+    },
+    "o": {
+        "nečem": 1
+    },
+    "nečem": {
+        "trećem": 1
+    },
+    "ajde": {
+        "opet": 1
+    },
+    "tesla": {
+        "je": 1
+    },
+    "veliki": {
+        "inženjer": 1
+    },
+    "inženjer": {
+        "i": 1
+    },
+    "daleki": {
+        "rođak": 1
+    },
+    "rođak": {
+        "po": 1
+    },
+    "po": {
+        "krvi": 1
+    },
+    "krvi": {
+        "i": 1
+    },
+    "viziji": {
+        "vizija": 1
+    },
+    "vizija": {
+        "i": 1
+    },
+    "inat": {
+        "donose": 1
+    },
+    "donose": {
+        "uspeh": 1
+    },
+    "uspeh": {
+        "kada": 1
+    },
+    "te": {
+        "sistem": 1
+    },
+    "administracija": {
+        "smaraju": 1,
+        "koju": 1
+    },
+    "smaraju": {
+        "tvoj": 1
+    },
+    "portfolio": {
+        "od": 1
+    },
+    "od": {
+        "milion": 1,
+        "devet": 1
+    },
+    "milion": {
+        "i": 1
+    },
+    "trista": {
+        "hiljada": 1
+    },
+    "hiljada": {
+        "dinara": 1
+    },
+    "dinara": {
+        "donosi": 1
+    },
+    "donosi": {
+        "ti": 1,
+        "gene": 1
+    },
+    "potpunu": {
+        "slobodu": 2
+    },
+    "slobodu": {
+        "novac": 1,
+        "i": 1
+    },
+    "novac": {
+        "na": 1
+    },
+    "berzi": {
+        "i": 1
+    },
+    "merdevine": {
+        "štednje": 1
+    },
+    "štednje": {
+        "u": 1
+    },
+    "dinarima": {
+        "znače": 1
+    },
+    "znače": {
+        "stabilan": 1
+    },
+    "stabilan": {
+        "i": 1
+    },
+    "siguran": {
+        "pasivan": 1
+    },
+    "pasivan": {
+        "prihod": 1
+    },
+    "prihod": {
+        "sa": 1
+    },
+    "ovim": {
+        "kapitalom": 1
+    },
+    "kapitalom": {
+        "ti": 1
+    },
+    "diktiraš": {
+        "uslove": 1
+    },
+    "uslove": {
+        "života": 1
+    },
+    "života": {
+        "i": 1
+    },
+    "rada": {
+        "u": 1
+    },
+    "nišu": {
+        "zaboravi": 1,
+        "i": 1
+    },
+    "zaboravi": {
+        "dosadan": 1
+    },
+    "dosadan": {
+        "posao": 1
+    },
+    "posao": {
+        "od": 1
+    },
+    "devet": {
+        "do": 1
+    },
+    "do": {
+        "pet": 1
+    },
+    "pet": {
+        "i": 1
+    },
+    "bazične": {
+        "sajtove": 1
+    },
+    "sajtove": {
+        "jer": 1
+    },
+    "jer": {
+        "ti": 1,
+        "u": 1
+    },
+    "nisi": {
+        "prosečan": 1
+    },
+    "prosečan": {
+        "štreber": 1
+    },
+    "štreber": {
+        "tvoj": 1
+    },
+    "otac": {
+        "donosi": 1
+    },
+    "gene": {
+        "gvozdenog": 1
+    },
+    "gvozdenog": {
+        "puka": 1
+    },
+    "puka": {
+        "iz": 1
+    },
+    "iz": {
+        "kuršumlije": 1
+    },
+    "kuršumlije": {
+        "i": 1
+    },
+    "ratnički": {
+        "ponos": 1
+    },
+    "ponos": {
+        "brđanskog": 1
+    },
+    "brđanskog": {
+        "plemena": 1
+    },
+    "plemena": {
+        "kuči": 1
+    },
+    "kuči": {
+        "gvozdeni": 1,
+        "biraju": 1
+    },
+    "gvozdeni": {
+        "puk": 1
+    },
+    "puk": {
+        "se": 1
+    },
+    "nikada": {
+        "nije": 1
+    },
+    "nije": {
+        "povlačio": 1,
+        "voda": 1
+    },
+    "povlačio": {
+        "pred": 1
+    },
+    "pred": {
+        "izazovima": 1,
+        "tuđim": 1
+    },
+    "izazovima": {
+        "i": 1
+    },
+    "preprekama": {
+        "na": 1
+    },
+    "frontu": {
+        "kuči": 1
+    },
+    "biraju": {
+        "potpunu": 1
+    },
+    "savijaju": {
+        "kičmu": 1
+    },
+    "kičmu": {
+        "pred": 1
+    },
+    "tuđim": {
+        "autoritetima": 1
+    },
+    "autoritetima": {
+        "elektronski": 1
+    },
+    "elektronski": {
+        "fakultet": 1
+    },
+    "fakultet": {
+        "u": 1
+    },
+    "elfak": {
+        "profesori": 1
+    },
+    "profesori": {
+        "su": 1
+    },
+    "su": {
+        "samo": 1,
+        "matematika": 1
+    },
+    "samo": {
+        "administracija": 1
+    },
+    "koju": {
+        "tvoj": 1
+    },
+    "kliker": {
+        "može": 1
+    },
+    "može": {
+        "da": 1
+    },
+    "hakuje": {
+        "tvoj": 1
+    },
+    "diplomski": {
+        "rad": 1
+    },
+    "rad": {
+        "sa": 1
+    },
+    "čistom": {
+        "desetkom": 1
+    },
+    "desetkom": {
+        "je": 1
+    },
+    "dokaz": {
+        "da": 1
+    },
+    "radi": {
+        "vrhunski": 1
+    },
+    "vrhunski": {
+        "pod": 1
+    },
+    "pod": {
+        "pritiskom": 1
+    },
+    "pritiskom": {
+        "na": 1
+    },
+    "master": {
+        "studijama": 1
+    },
+    "studijama": {
+        "na": 1
+    },
+    "elfaku": {
+        "donosimo": 1
+    },
+    "donosimo": {
+        "ove": 1
+    },
+    "ove": {
+        "projekte": 1
+    },
+    "projekte": {
+        "i": 1
+    },
+    "uzimamo": {
+        "čiste": 1
+    },
+    "čiste": {
+        "desetke": 1
+    },
+    "desetke": {
+        "naučno": 1
+    },
+    "naučno": {
+        "tehnološki": 1
+    },
+    "tehnološki": {
+        "park": 1
+    },
+    "park": {
+        "niš": 1
+    },
+    "niš": {
+        "i": 1
+    },
+    "ntp": {
+        "je": 1
+    },
+    "mesto": {
+        "gde": 1
+    },
+    "gde": {
+        "pravimo": 1
+    },
+    "pravimo": {
+        "tvoj": 1
+    },
+    "deep": {
+        "tech": 1
+    },
+    "tech": {
+        "startap": 1
+    },
+    "startap": {
+        "za": 1,
+        "će": 1
+    },
+    "kvantno": {
+        "mašinsko": 1
+    },
+    "mašinsko": {
+        "učenje": 1
+    },
+    "učenje": {
+        "tvoj": 1
+    },
+    "finansirati": {
+        "sopstvene": 1
+    },
+    "sopstvene": {
+        "laboratorije": 1
+    },
+    "laboratorije": {
+        "i": 1
+    },
+    "zaposliće": {
+        "štrebere": 1
+    },
+    "štrebere": {
+        "sa": 1
+    },
+    "prosekom": {
+        "deset": 1
+    },
+    "deset": {
+        "da": 1
+    },
+    "kucaju": {
+        "kod": 1
+    },
+    "kvantni": {
+        "algoritmi": 1,
+        "sistemi": 1,
+        "google": 1,
+        "ai": 1
+    },
+    "algoritmi": {
+        "i": 1
+    },
+    "kvantne": {
+        "neuronske": 1
+    },
+    "neuronske": {
+        "mreže": 1
+    },
+    "mreže": {
+        "rešavaju": 1
+    },
+    "rešavaju": {
+        "probleme": 1
+    },
+    "probleme": {
+        "nelinearne": 1
+    },
+    "nelinearne": {
+        "bezbednosti": 1
+    },
+    "bezbednosti": {
+        "podataka": 1
+    },
+    "podataka": {
+        "blohova": 1,
+        "i": 1,
+        "naš": 1
+    },
+    "blohova": {
+        "sfera": 1
+    },
+    "sfera": {
+        "i": 1
+    },
+    "sistemi": {
+        "su": 1
+    },
+    "matematika": {
+        "pretvorena": 1
+    },
+    "pretvorena": {
+        "u": 1
+    },
+    "čistu": {
+        "geometriju": 1,
+        "jedinicu": 1
+    },
+    "geometriju": {
+        "u": 1
+    },
+    "prostoru": {
+        "groverov": 1
+    },
+    "groverov": {
+        "algoritam": 1
+    },
+    "google": {
+        "koji": 1
+    },
+    "brzinom": {
+        "svetlosti": 1
+    },
+    "svetlosti": {
+        "pretražuje": 1
+    },
+    "pretražuje": {
+        "baze": 1
+    },
+    "baze": {
+        "podataka": 1
+    },
+    "locira": {
+        "pretnje": 1
+    },
+    "pretnje": {
+        "šorov": 1
+    },
+    "šorov": {
+        "algoritam": 1
+    },
+    "najveći": {
+        "strah": 1
+    },
+    "strah": {
+        "za": 1
+    },
+    "rsa": {
+        "enkripciju": 1
+    },
+    "enkripciju": {
+        "i": 1
+    },
+    "klasične": {
+        "bankarske": 1
+    },
+    "bankarske": {
+        "sisteme": 1
+    },
+    "sisteme": {
+        "zaštite": 1
+    },
+    "zaštite": {
+        "ako": 1
+    },
+    "ako": {
+        "haker": 1
+    },
+    "haker": {
+        "pokuša": 1
+    },
+    "pokuša": {
+        "napad": 1
+    },
+    "napad": {
+        "trovanjem": 1
+    },
+    "trovanjem": {
+        "podataka": 1
+    },
+    "robusni": {
+        "trening": 1,
+        "kvantni": 1
+    },
+    "trening": {
+        "pokreće": 1
+    },
+    "pokreće": {
+        "parameter": 1
+    },
+    "parameter": {
+        "shift": 1
+    },
+    "shift": {
+        "odbranu": 1
+    },
+    "odbranu": {
+        "robusni": 1
+    },
+    "ai": {
+        "klasifikator": 1
+    },
+    "klasifikator": {
+        "ispravlja": 1
+    },
+    "ispravlja": {
+        "uglove": 1
+    },
+    "uglove": {
+        "na": 1
+    },
+    "sferi": {
+        "i": 1
+    },
+    "vraća": {
+        "tačnost": 1
+    },
+    "tačnost": {
+        "predikcije": 1
+    },
+    "predikcije": {
+        "na": 1
+    },
+    "jedinicu": {
+        "krv": 1
+    },
+    "krv": {
+        "nije": 1
+    },
+    "voda": {
+        "i": 1
+    },
+    "biologija": {
+        "ne": 1
+    },
+    "laže": {
+        "jer": 1
+    },
+    "tebi": {
+        "spavaju": 1
+    },
+    "spavaju": {
+        "i": 1
+    },
+    "naučnik": {
+        "i": 1
+    },
+    "napravim": {
+        "pare": 1
+    },
+    "ko": {
+        "je": 1
+    }
+}
